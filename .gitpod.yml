@@ -1,5 +1,3 @@
-es (20 sloc)  734 Bytes
-
 tasks:
   - name: aws-cli
     env:
