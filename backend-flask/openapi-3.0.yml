@@ -152,7 +152,7 @@ paths:
     get:
       description: 'Return a feed of activitiy for all of those that i follow'
       tags:
-       -activities
+       - activities
       parameters: []
       responses:
         '200':
