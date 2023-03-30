@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta, timezone
 class Messages:
-  def run(user_sender_handle, user_receiver_handle):
+  def run(message_group_uuid, cognito_user_id):
     model = {
       'errors': None,
       'data': None
